@@ -18,6 +18,12 @@ Status: Actively looking for Machine Learning Engineering/Data Scientist Roles
 - July 16 - May 21, MSc. Data Science (Integrated five year program), GPA: 9.08/10
 -  Awarded Achievement Award for outstanding curricular, co-curricular and extra-curricular achievements in MSc Data Science class of 2021.
 
+## Skills
+- Proficient with Linux/Unix, OS X, Windows, Python, SQL, PyTorch, Numpy, Scikit-Learn
+- Familiar with C, C++, JavaScript, LaTeX
+- Mathematical background includes machine learning, data mining, numerical analysis, linear algebra, probability and statistics, graph theory.
+- Computer science background includes data structures and algorithms, database concepts, computer networks.
+
 ## Experience
 
 #### Indian Institute of Technology, Madras
@@ -57,13 +63,6 @@ Status: Actively looking for Machine Learning Engineering/Data Scientist Roles
 ## Projects
 ##### Budget Analyzer - [code](https://github.com/arunppsg/budget-analyzer)
 - Built an application to keep track of users income and expenses using MongoDb for backend and PyQt for front end. The application gives prediction for future expenses using time-series analysis.
-
-## Skills
-- Languages: Python, RStudio, C, C++
-- Database: MongoDB, MySQL
-- Frameworks: Pytorch, Scikit-Learn, Numpy
-- Tools: Git, Streamlit, DeepChem
-- Platforms: Windows, Linux
 
 ## Others
 - Language: English and Tamil (Both proficient in reading, writing and speaking)
