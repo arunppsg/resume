@@ -27,7 +27,7 @@ Status: Actively looking for Machine Learning Engineering/Data Scientist Roles
 ## Experience
 
 #### Indian Institute of Technology, Madras
-##### Project Assistant July'21 - present
+##### Project Assistant July'21 - Feb'22
 - Built a malware detection framework and implemented algorithms for detecting malware from network traffic using predictive modelling techniques.
 - Built a packet logging application to capture and parse network packets at high speed (tested upto 50 MB/sec) and implemented Bloom Filter algorithm to detect duplicate packets based on packet payload.
 
@@ -48,9 +48,10 @@ Status: Actively looking for Machine Learning Engineering/Data Scientist Roles
 - Collected open data, studied operations of Food Corporation of India and found factors which influence states proposals, efficient utilization of foodgrains and highlighted challenges in providing food security under the current system and suggested policy recommendations.
 
 ## Open Source Contributions
-#### DeepChem - [PRs](https://github.com/deepchem/deepchem/issues?q=arunppsg+is%3Aclosed)
+#### DeepChem - [PRs](https://github.com/deepchem/deepchem/pulls?q=is%3Apr+author%3Aarunppsg+is%3Aclosed)
 ##### Project Maintainer (July 21 - present)
-- Implementing machine learning models based on research papers for applying AI in scientific problems.
+- Implementing machine learning model architectures for enabling quick prototyping and testing of ML
+techniques to scientific datasets.
 - Improved testing infrastructure and worked on project maintanence like improving code healthiness, creating tutorials, performing code reviews, improving documentation etc
 
 
