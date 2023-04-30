@@ -1,7 +1,5 @@
 # Arun Thiagarajan
-[Website](https://arunppsg.github.io), [Mail](mailto:arunppsg@gmail.com), [Github](https://github.com/arunppsg), [Twitter](https://twitter.com/arunppsg), [Linkedin](https://linkedin.com/in/arunppsg), [PDF version](https://raw.githubusercontent.com/arunppsg/resume/master/pdf/resume.pdf)
-
-Status: Actively looking for Machine Learning Engineering/Data Scientist Roles
+[Website](https://arunppsg.github.io), [Github](https://github.com/arunppsg), [PDF version](https://raw.githubusercontent.com/arunppsg/resume/master/pdf/resume.pdf)
 
 ## Contents
 - [Education](#education)
@@ -16,20 +14,23 @@ Status: Actively looking for Machine Learning Engineering/Data Scientist Roles
 
 ### PSG College of Technology, Coimbatore
 - July 16 - May 21, MSc. Data Science (Integrated five year program), GPA: 9.08/10
--  Awarded Achievement Award for outstanding curricular, co-curricular and extra-curricular achievements in MSc Data Science class of 2021.
+- Awarded Achievement Award for outstanding curricular, co-curricular and extra-curricular achievements in MSc Data Science class of 2021.
+- Organized Machine Learning study group weekly meetings between July 2021 - Nov 2021.
 
-## Skills
-- Proficient with Linux/Unix, OS X, Windows, Python, SQL, PyTorch, Numpy, Scikit-Learn
-- Familiar with C, C++, JavaScript, LaTeX
-- Mathematical background includes machine learning, data mining, numerical analysis, linear algebra, probability and statistics, graph theory.
-- Computer science background includes data structures and algorithms, database concepts, computer networks.
-
-## Experience
+### Deep Forest Science
+### Machine Learning Engineer Mar'22 - Present
+- Building machine learning pipelines for various applications in the field of drug discovery.
+- Building RestAPIs for the models using FastAPI and deploying them on AWS infrastructure.
 
 #### Indian Institute of Technology, Madras
 ##### Project Assistant July'21 - Feb'22
-- Built a malware detection framework and implemented algorithms for detecting malware from network traffic using predictive modelling techniques.
-- Built a packet logging application to capture and parse network packets at high speed (tested upto 50 MB/sec) and implemented Bloom Filter algorithm to detect duplicate packets based on packet payload.
+I was part of RISE Lab and I worked on various aspects of network security and malware detection in a network. Some key works:
+* Developed a high speed network packet sniffer using ring buffer and memory map techniques to capture incoming packets, parsed and collect header fields of packets for performing analysis.
+* Built a packet logging application to capture and parse network packets at high speed (tested upto 50 MB/sec) and implemented Bloom Filter algorithm to detect duplicate packets based on packet payload.
+* Implemented machine learning algorithm for classifying flows in a network, algorithms to detect suspicious domain names based on DNS patterns
+* Studied fingerprinting techniques to detect malicious servers, SSL Inspection of network traffic for malware analysis, detecting user applications by flow features.
+* Built a malware detection framework and implemented algorithms for detecting malware from network traffic using predictive modelling techniques.
+
 
 #### Tata Consultancy Services
 ##### Research and Development Intern May'19 - Nov'19
@@ -41,6 +42,10 @@ Status: Actively looking for Machine Learning Engineering/Data Scientist Roles
 - Developed an AI engine for classifying documents and used NLP techniques for named-entity extraction. The solution was deployed for real-time use using a Flask based web framework.
 - Used IAM Handwriting dataset and augmented the dataset to build a robust convolutional netural network for recognizing handwritten words to achieved an accuracy of 64% in recognizing handwritten characters.
 
+#### Mango Education
+##### Course Educator April 2020, May 2018
+- I was one of the two educator of the course Excel With Sports. In the course, we introduced kids to learn the basic of statistics using Microsoft excel. Kids learnt how to collect and curate data and make visualizations and inferences based on visualizations.
+- During May 2018, at Mango, I also conducted a program called "Cricket and Statistics" where kids learnt and explored statistics in different aspects of cricket like team selection, strike rate, economy of players.
 
 ## Papers
 ### Unpublished Manuscripts
@@ -65,6 +70,13 @@ techniques to scientific datasets.
 ##### Budget Analyzer - [code](https://github.com/arunppsg/budget-analyzer)
 - Built an application to keep track of users income and expenses using MongoDb for backend and PyQt for front end. The application gives prediction for future expenses using time-series analysis.
 
+## Skills
+- Proficient with Linux/Unix, OS X, Windows, Python, SQL, PyTorch, Numpy, Scikit-Learn
+- Familiar with C, C++, JavaScript, LaTeX
+- Mathematical background includes machine learning, data mining, numerical analysis, linear algebra, probability and statistics, graph theory.
+- Computer science background includes data structures and algorithms, database concepts, computer networks.
+
+## Experience
 ## Others
 - Language: English and Tamil (Both proficient in reading, writing and speaking)
 - Gave a [talk](https://www.youtube.com/watch?v=JEFrzjpf6d0) at Pycon India 2021 about DeepChem
