@@ -19,8 +19,8 @@
 
 ### Deep Forest Science
 ### Machine Learning Engineer Mar'22 - Present
-- Building machine learning pipelines for various applications in the field of drug discovery.
-- Building RestAPIs for the models using FastAPI and deploying them on AWS infrastructure.
+- Designed and built a maching learning platform for computational drug discovery applications on AWS Batch service.
+- Built RestAPIs using FastAPI for submitting jobs to the platform and developed backend services.
 
 #### Indian Institute of Technology, Madras
 ##### Project Assistant July'21 - Feb'22
@@ -47,10 +47,10 @@ I was part of RISE Lab and I worked on various aspects of network security and m
 - I was one of the two educator of the course Excel With Sports. In the course, we introduced kids to learn the basic of statistics using Microsoft excel. Kids learnt how to collect and curate data and make visualizations and inferences based on visualizations.
 - During May 2018, at Mango, I also conducted a program called "Cricket and Statistics" where kids learnt and explored statistics in different aspects of cricket like team selection, strike rate, economy of players.
 
-## Papers
+## Posters/Workshop papers
 ### Unpublished Manuscripts
-##### Data Driven Analysis of Food Corporation of India's Operations and Recommendations - [paper](https://arunppsg.github.io/files/FCI.pdf)
-- Collected open data, studied operations of Food Corporation of India and found factors which influence states proposals, efficient utilization of foodgrains and highlighted challenges in providing food security under the current system and suggested policy recommendations.
+- [Potential Biases in Using Machine Learning for Healthcare Applications](https://Potential Biases in Using Machine Learning for Healthcare Applications), presented at RBCDSAI-FCAI Deployable AI - 2022 conference.
+- [Data Driven Analysis of Food Corporation of India's Operations and Recommendations](https://www.arunppsg.in/assets/files/FCI.pdf), presented at as workshop paper for Communications of the ACM Regional Section on India Region, November 2021.
 
 ## Open Source Contributions
 #### DeepChem - [PRs](https://github.com/deepchem/deepchem/pulls?q=is%3Apr+author%3Aarunppsg+is%3Aclosed)
