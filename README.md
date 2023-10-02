@@ -48,6 +48,8 @@ I was part of RISE Lab and I worked on various aspects of network security and m
 - During May 2018, at Mango, I also conducted a program called "Cricket and Statistics" where kids learnt and explored statistics in different aspects of cricket like team selection, strike rate, economy of players.
 
 ## Posters/Workshop papers
+### Workshop Paper
+- Open Source Infrastructure for Differentiable Density Functional Theory, Advika Vidhyadhiraja, Arun Pa Thiagarajan, Shang Zhu, Venkatasubraman Viswanathan, Bharath Ramsundar at SynS & ML Workshop @ ICML 2023 (https://syns-ml.github.io/2023/)
 ### Unpublished Manuscripts
 - [Potential Biases in Using Machine Learning for Healthcare Applications](https://Potential Biases in Using Machine Learning for Healthcare Applications), presented at RBCDSAI-FCAI Deployable AI - 2022 conference.
 - [Data Driven Analysis of Food Corporation of India's Operations and Recommendations](https://www.arunppsg.in/assets/files/FCI.pdf), presented at as workshop paper for Communications of the ACM Regional Section on India Region, November 2021.
@@ -76,9 +78,15 @@ techniques to scientific datasets.
 - Mathematical background includes machine learning, data mining, numerical analysis, linear algebra, probability and statistics, graph theory.
 - Computer science background includes data structures and algorithms, database concepts, computer networks.
 
+## Patents
+- A CLOUD SCIENTIFIC MACHINE LEARNING PROGRAMMING ENVIRONMENT, UNITED STATES PROVISIONAL PATENT APPLICATION of BHARATH RAMSUNDAR and ARUN PALANIAPPAN TR (Provisional)
+
 ## Experience
+## Courses
+- Deep Generative Models by Prof. Prathosh, Center of Continuing Education, IISc Bangalore (May 2023).
 ## Others
 - Language: English and Tamil (Both proficient in reading, writing and speaking)
 - Gave a [talk](https://www.youtube.com/watch?v=JEFrzjpf6d0) at Pycon India 2021 about DeepChem
 - Led the development of *Machine Learning study group* at PSG College of Technology and organized weekly online meetings between July'20 - Nov'20 to discuss machine learning papers and concepts.
 - Conducted *Cricket and Statistics* program at Mango Education for kids aged between 11 - 15.
+- Volunteer at FOSS United, Bangalore.

@@ -99,20 +99,14 @@
 \newcommand{\resumeItemListStart}{\begin{itemize}}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
-%-------------------------------------------
-%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
 \begin{document}
 
-%----------HEADING-----------------
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-  \textbf{\Large Arun Thiagarajan} & Email : \href{mailto:arunppsg@gmail.com}{arunppsg@gmail.com}\\
+  \textbf{\Large Arun Pa Thiagarajan} & Email : \href{mailto:arunppsg@gmail.com}{arunppsg@gmail.com}\\
   \href{https://www.arunppsg.in/}{https://www.arunppsg.in/} & Github: \href{https://github.com/arunppsg}{arunppsg}\\
 \end{tabular*}
 
 
-%-----------EDUCATION-----------------
 \section{Education}
   \resumeSubHeadingListStart
     \resumeSubheading
@@ -120,6 +114,14 @@
       {Integrated Masters in Data Science;  GPA: 3.63 (9.08/10.0)}{July 2016 -- May 2021}
   \resumeSubHeadingListEnd
 
+% Is Publication right name here?
+\section{Publications, Posters and Patent}
+  \resumeSubHeadingListStart
+    \resumeSubItemSimple {Advika Vidhyadhiraja, \textbf{Arun Pa Thiagarajan} et. al (2023), \href{https://www.arunppsg.in/assets/files/deep-dft.pdf}{\textit{Open Source Infrastructure for Differentiable Density Functional Theory}}. In: \href{https://syns-ml.github.io/2023/}{SynS \& ML Workshop @ ICML 2023}.}
+    \resumeSubItemSimple {Arun Pa Thiagarajan, Potential Biases in Using Machine Learning for Healthcare Applications \href{https://www.arunppsg.in/assets/files/healthcare_bias.pdf}{(poster).} In: RBCDSAI-FCAI Conference on Deployable AI, 2022}
+    \resumeSubItemSimple {Arun Pa Thiagarajan et. al (2021) Data-Driven Analysis of Food Corporation of India’s Operations and Policy Recommendations \href{https://www.arunppsg.in/assets/files/FCI.pdf}{(report).}}
+    \resumeSubItemSimple {Chiron: A Cloud Scientific Machine Learning Programming Environment, United States Provisional Patent Application, Bharath Ramsundar and Arun Thiagarajan.}
+  \resumeSubHeadingListEnd
 
 %-----------EXPERIENCE-----------------
 \section{Experience}
@@ -128,16 +130,17 @@
       {Deep Forest Sciences}{Fremont, CA}
       {Machine Learning Engineer (remote)}{Mar '22 - Present}
       \resumeItemListStart
+        \item Implemented, trained and benchmarked graph neural networks and various other kind of deep learning networks over large datasets on multi-gpu multi-node platform with applications in molecular property prediction.
         \item Designed and built a maching learning platform for computational drug discovery applications on AWS Batch service.
-        \item Built RestAPIs using FastAPI for submitting jobs to the platform and developed backend services.
+        \item Built backend RestAPIs using FastAPI webframework and MySQL database for submitting jobs to the platform and developed backend services.
       \resumeItemListEnd
 
     \resumeSubheading
       {Indian Institute of Technology, Madras}{Chennai, India}
       {Project Assistant}{July '21 - Feb '22}
       \resumeItemListStart
-        \item Built a malware detection framework and implemented predictive modelling algorithms for detecting malware from network traffic data.
-        \item Built an open-source packet logging tool which can capture and parse network packets at high speed (tested upto 50 MB/sec) and detect duplicate packets using a BloomFilter(\href{https://github.com/arunppsg/packet-sniffer}{code}).
+        \item Built a malware detection framework and implemented predictive modelling algorithms for detecting malware from network traffic data. The framework incorporated machine learning algorithm for classifying flows in a network, algorithms to detect suspicious domain names based on DNS patterns and TLS fingerprinting technique to detect malicious servers.
+        \item Built an open-source packet logging tool which can capture and parse network packets at high speed (tested upto 50 MB/sec) using ring buffer and memory mapping techniques to capture and parse incoming packet headers and detect duplicate packets using a BloomFilter(\href{https://github.com/arunppsg/packet-sniffer}{code}).
       \resumeItemListEnd
      
     \resumeSubheading
@@ -156,31 +159,30 @@
 %     \resumeItemListEnd
 %    \resumeSubHeadingListEnd
 %-------------------------------------------
-    \resumeSubheading
-      {in-d.ai}{Chennai, India}
-      {Machine Learning Enginnering Intern}{June '20 - July '20}
-      \resumeItemListStart
-        \item Developed an AI engine for classifying documents and used NLP techniques for named-entity extraction. The solution was deployed for real-time use using a Flask based web framework.
-        \item Used IAM Handwriting dataset and augmented it to build a robust convolutional netural network for recognizing handwritten words to recognize handwritten characters (accuracy achieved: 64\%).
-      \resumeItemListEnd
   \resumeSubHeadingListEnd
 
-
-\section{Projects}
+\section{Open Source Contributions}
   \resumeSubHeadingListStart
-    \resumeSubItemSimple {Presented a poster on Potential Biases in Using Machine Learning for Healthcare Applications in RBCDSAI Deployable AI - 2022 conference \href{https://www.arunppsg.in/assets/files/healthcare_bias.pdf}{(poster).}}
     \resumeSubItemSimple {Contributed machine learning model architectures to the open scientific ML library \href{https://deepchem.io/}{DeepChem} and improved testing infrastructure by contributing to CI/CD pipeline and increasing test coverage {\href{https://github.com/deepchem/deepchem/pulls?q=is\%3Apr+author\%3Aarunppsg+is\%3Aclosed}{(pull requests).}}}
-    \resumeSubItemSimple {Performed a data driven analysis of Food Corporation of India's operations by collection open data and suggested policy recommendations to efficiently utilize foodgrains \href{https://www.arunppsg.in/assets/files/FCI.pdf}{(report).}}
     \resumeSubItemSimple {Implemented the paper \href{https://arxiv.org/abs/2009.07769}{Time Series Anomaly Detection using Generative Adversarial Networks} for performing anomalye detection in time series data \href{https://github.com/arunppsg/tadGAN}{(code).}}
+    \resumeSubItemSimple {Contributed patches to PyTorch (\href{https://github.com/pytorch/pytorch/pulls/arunppsg}{contributions}), a popular deep learning framework and PyTorch-Geometric, a popular deep learning framework for implementing graph neural networks (\href{https://github.com/pyg-team/pytorch_geometric/pulls?q=is\%3Apr+author\%3Aarunppsg+is\%3Aclosed}{contributions}).}
+  \resumeSubHeadingListEnd
+
+\section{Others}
+  \resumeSubHeadingListStart
     \resumeSubItemSimple {Awarded Achievement Award for outstanding curricular, co-curricular and extra-curricular achievements in MSc Data Science class of 2021.}
     \resumeSubItemSimple {Conducted \textit{Cricket and Statistics} program at Mango Education for kids aged between 11 - 15.}
+    \resumeSubItemSimple {Budget Analyzer: An application to keep track of income and expenses and predicting future expenses using time series analysis. Tools and technologies used: MongoDb for backend and PyQt for front end. (\href{https://github.com/arunppsg/budget-analyzer}{code}).}
+    \resumeSubItemSimple {Took Deep Generative Model courses from the Center of Continuing Education, Indian Institute of Science, Bangalore in May 2023.}
+    \resumeSubItemSimple {Volunteer at \href{https://fossunited.org/}{FOSS United} - a non-profit organisation which promotes open source software ecosystem in India}
+
   \resumeSubHeadingListEnd
 %
 %--------PROGRAMMING SKILLS------------
 \section{Programming Skills}
   \resumeSubHeadingListStart
-    \resumeSubItemSimple{\textbf{Languages}{: Python, C, C++}}
-    \resumeSubItemSimple{\textbf{Technologies and Frameworks}{: MongoDb, MySQL, PyTorch, Git, Github Actions, Docker, AWS EC2, S3, AWS Batch}}
+    \resumeSubItemSimple{\textbf{Programming Languages}{: Python, C, C++}}
+    \resumeSubItemSimple{\textbf{Technologies and Frameworks}{: MongoDb, MySQL, PyTorch, Git, Github Actions, Docker, AWS Cloud Infrastructure}}
   \resumeSubHeadingListEnd
 
 %-------------------------------------------
@@ -190,4 +192,3 @@
 \end{footnotesize}
 
 \end{document}
-
