@@ -90,3 +90,4 @@ techniques to scientific datasets.
 - Led the development of *Machine Learning study group* at PSG College of Technology and organized weekly online meetings between July'20 - Nov'20 to discuss machine learning papers and concepts.
 - Conducted *Cricket and Statistics* program at Mango Education for kids aged between 11 - 15.
 - Volunteer at FOSS United, Bangalore.
+- Attended ACM Winter School on Cybersecurity at NISER Bhubaneshwar, December 2019.
